@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.app {
+  background-color: aqua;
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.capital-card {
+  background-color: white;
+  border-radius: 10px;
+  height: 60%;
+  width: 50%;
+  text-align: center;
+}
+.select-tab {
+  height: 40px;
+  width: 300px;
+}
